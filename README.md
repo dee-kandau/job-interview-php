@@ -5,4 +5,7 @@ Case
     1.using valet=> Add it to your park folder then server it as http://e-biashara-php-version.test/
     2. run php artisan serve inside this project
 
+run composer install
+cp .env.example .env
+
 Thankyou
